@@ -8,7 +8,7 @@ I'm a **mobile app developer** passionate about building intuitive and functiona
 - 🎨 **User-Centric Design** – Focused on making apps that are easy to use and visually appealing.  
 
 ## 🛠️ Tech Stack  
-- **Languages:** Kotlin, Java  
+- **Languages:** Java  
 - **Tools:** Android Studio, Firebase, Git  
 - **Design:** XML, Material Design  
 
